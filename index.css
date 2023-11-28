@@ -46,7 +46,7 @@
   align-items: center;
   padding: 50px;
    font-size: 30px;
-   font-style:bold;
+   font-style:initial;
   
    border:2px solid black;
 }
